@@ -59,7 +59,7 @@ Be creative! Invisibility, flight, speed, and more!
 
 If you would rather tell a different story, you can do that too. Please don't post your full name since these projects will be up on the internet for the whole world to see.
 
-##Getting Started
+###Getting Started
 
 Start a new project at [http://jsbin.com/](http://jsbin.com/). The HTML section will look like this:
 ```
