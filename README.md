@@ -8,7 +8,7 @@ Please create an account at [http://jsbin.com/](http://jsbin.com/). You will nee
 
 
 ###What is HTML?
-A web page is made up of many HTML elements, called tags, that are enclosed in angle brackets. 
+A web page is made up of many HTML elements, called tags, that are enclosed in angle brackets. These tags tell your web computer what to show.
 
 The paragraph below is an example of how you mark a paragraph in HTML, by surrounding it in opening and closing `<p>` tags.
 
@@ -16,9 +16,7 @@ The paragraph below is an example of how you mark a paragraph in HTML, by surrou
 <p>All web pages on the internet use HTML!</p>
 ```
 
-Today we will be 
-
-###Demo
+###Example - A Web Page About My Favorite Season
 
 This bit of code:
 
@@ -52,6 +50,10 @@ Will produce a web page that looks like this:
 Check out the [live demo](http://jsbin.com/cejip/1/edit?html,css,output) to experiment yourself.
 
 
-###Your Story
+###Your Story - What's Your Super Power?
+Our projects today will be about your imaginary super powers. It will be a whole web page around "if I had a super power, it would be ..." - what would you use your super power for?
+
+
+
 
 
