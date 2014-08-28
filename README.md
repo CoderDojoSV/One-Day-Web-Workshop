@@ -106,4 +106,19 @@ If you type out text, it will be displayed all on one line. What if you want to 
 Add a couple paragraphs to your web page about your super power.
 
 
+###List Tags
 
+You can add a list to your story using `<ul>` and `<li>` tags. Here is an example:
+
+```html
+<ul>
+    <li>Travel anywhere</li>
+    <li>No more walking to school</li>
+    <li>Visit Grandma and Grandpa whenever I want</li>
+    <li>Soar around with birds</li>
+</ul>
+```
+
+The `<ul>` tag (unordered list) tells the browser this is a list of items. The `<li>` (list item) tags are used around each list item.
+
+Add a list to your web page about the things you would do with your super power. What happens if you change the ul tag to an ol? What do you think that stands for?
