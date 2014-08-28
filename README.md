@@ -38,7 +38,7 @@ This bit of code:
 
    <img src="http://images.pinchit.com/deals/2012/04/16/012292aa53_1334616708_550.jpg" alt="">
     
-   <p>Click <a href="http://baytobeachlife.files.wordpress.com/2013/02/male-sealion3-by-chris-parsons.jpg">here</a> to see my favorite sea animal.</p>   
+   <p>Click <a href="http://bit.ly/1tOMKwv">here</a> to see my favorite sea animal.</p>   
   </body>
 </html>
 ```
