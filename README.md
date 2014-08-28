@@ -51,9 +51,11 @@ Check out the [live demo](http://jsbin.com/cejip/1/edit?html,css,output) to expe
 
 
 ###Your Story - What's Your Super Power?
-Our projects today will be about your imaginary super powers. It will be a whole web page around "if I had a super power, it would be ..." - what would you use your super power for?
+Our projects today will be about your imaginary super powers. It will be a whole web page around "if I had a super power, it would be ..."
 
+What would you use your super power for? Does any one have this power? Are there any downsides?
 
+Be creative! Invisibility, flight, speed, and more!
 
 
 
