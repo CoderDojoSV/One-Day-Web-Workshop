@@ -57,8 +57,15 @@ What would you use your super power for? Does any one have this power? Are there
 
 Be creative! Invisibility, flight, speed, and more!
 
-###HTML Tags
+##Getting Started
+
+Start a new blank project at [http://jsbin.com/](http://jsbin.com/). You should delete all of the HTML that it starts with and have a blank page.
 
 
+##HTML Tags
+
+Let's learn a few tags to use on your web page!
 ![html tags](https://raw.githubusercontent.com/CoderDojoSV/Medallia-Web-Workshop/master/html%20tags%20pic.jpg)
+
+
 
