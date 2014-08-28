@@ -57,9 +57,25 @@ What would you use your super power for? Does any one have this power? Are there
 
 Be creative! Invisibility, flight, speed, and more!
 
+If you would rather tell a different story, you can do that too. Please don't post your full name since these projects will be up on the internet for the whole world to see.
+
 ##Getting Started
 
-Start a new blank project at [http://jsbin.com/](http://jsbin.com/). You should delete all of the HTML that it starts with and have a blank page.
+Start a new project at [http://jsbin.com/](http://jsbin.com/). The HTML section will look like this:
+```
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>JS Bin</title>
+</head>
+<body>
+
+</body>
+</html>
+```
+
+You should delete all of this HTML! We will start with it completely blank.
 
 
 ##HTML Tags
