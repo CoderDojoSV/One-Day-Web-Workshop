@@ -80,8 +80,30 @@ You should delete all of this HTML! We will start with it completely blank.
 
 ##HTML Tags
 
-Let's learn a few tags to use on your web page!
+Let's learn a few tags to use on your web page! Most of the time you will have an opening tag and matching closing tag with some text in between.
+
 ![html tags](https://raw.githubusercontent.com/CoderDojoSV/Medallia-Web-Workshop/master/html%20tags%20pic.jpg)
+
+###Heading Tag
+If you type in the HTML window of JS Bin, it will add text to your web page. The h1 tag is used to make the text a heading.
+
+```html
+<h1>The Ability to Fly!</h1>
+```
+
+Add a heading to your page. Try changing the tag to an h2 - what changed? How many heading tags are there?
+
+###Paragraph Tag
+
+If you type out text, it will be displayed all on one line. What if you want to break it up into paragraphs? That's where the p tag comes in.
+
+```html
+<h1>The Ability to Fly!</h1>
+<p>Today, I'd like to tell you about the super power I would like to have the most.</p>
+<p>I would choose the ability to fly!</p>
+```
+
+Add a couple paragraphs to your web page about your super power.
 
 
 
