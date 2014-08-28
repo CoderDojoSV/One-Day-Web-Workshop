@@ -91,11 +91,11 @@ If you type in the HTML window of JS Bin, it will add text to your web page. The
 <h1>The Ability to Fly!</h1>
 ```
 
-Add a heading to your page. Try changing the tag to an h2 - what changed? How many heading tags are there?
+Add a heading to your page. Try changing the tag to an <h2> (and don't forget to change the closing tag) - what changed? How many heading tags are there?
 
 ###Paragraph Tag
 
-If you type out text, it will be displayed all on one line. What if you want to break it up into paragraphs? That's where the p tag comes in.
+If you type out text, it will be displayed all on one line. What if you want to break it up into paragraphs? That's where the <p> tag comes in.
 
 ```html
 <h1>The Ability to Fly!</h1>
@@ -122,3 +122,13 @@ You can add a list to your story using `<ul>` and `<li>` tags. Here is an exampl
 The `<ul>` tag (unordered list) tells the browser this is a list of items. The `<li>` (list item) tags are used around each list item.
 
 Add a list to your web page about the things you would do with your super power. What happens if you change the ul tag to an ol? What do you think that stands for?
+
+###Nested Tags!
+
+Lists are a little tricky because there is one tag within another one. Notice that the <ul> tag comes first and that there are <li> tags within it, before the closing </ul> tag. This can be used other places too!
+
+
+
+<strong>
+<em> <u> 
+
