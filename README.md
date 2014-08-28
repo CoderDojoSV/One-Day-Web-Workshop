@@ -85,17 +85,17 @@ Let's learn a few tags to use on your web page! Most of the time you will have a
 ![html tags](https://raw.githubusercontent.com/CoderDojoSV/Medallia-Web-Workshop/master/html%20tags%20pic.jpg)
 
 ###Heading Tag
-If you type in the HTML window of JS Bin, it will add text to your web page. The h1 tag is used to make the text a heading.
+If you type in the HTML window of JS Bin, it will add text to your web page. The `<h1>` tag is used to make the text a heading.
 
 ```html
 <h1>The Ability to Fly!</h1>
 ```
 
-Add a heading to your page. Try changing the tag to an <h2> (and don't forget to change the closing tag) - what changed? How many heading tags are there?
+Add a heading to your page. Try changing the tag to an `<h2>` (and don't forget to change the closing tag) - what changed? How many heading tags are there?
 
 ###Paragraph Tag
 
-If you type out text, it will be displayed all on one line. What if you want to break it up into paragraphs? That's where the <p> tag comes in.
+If you type out text, it will be displayed all on one line. What if you want to break it up into paragraphs? That's where the `<p>` tag comes in.
 
 ```html
 <h1>The Ability to Fly!</h1>
@@ -123,12 +123,50 @@ The `<ul>` tag (unordered list) tells the browser this is a list of items. The `
 
 Add a list to your web page about the things you would do with your super power. What happens if you change the ul tag to an ol? What do you think that stands for?
 
-###Nested Tags!
+###Tags Within Tags!
 
-Lists are a little tricky because there is one tag within another one. Notice that the <ul> tag comes first and that there are <li> tags within it, before the closing </ul> tag. This can be used other places too!
+Lists are a little tricky because there is one tag within another one. Notice that the `<ul>` tag comes first and that there are `<li>` tags within it, before the closing `</ul>` tag. This can be used other places too!
+
+Try adding these tags to your page to see what they do: `<strong>`, `<em>`, and ` <u>`. Remember, they can be within other tags. 
+
+```html
+<p>Today, I'd like to tell you about the <u>super power</u> I would like to have the most.</p>
+<p>I would choose the ability to <strong>fly!</strong></p>
+```
+
+###Image Tags
+This story would be a lot more interesting with pictures! Adding a picture to our story is simple, we just use the `<img>` tag and tell it where our image is.
+
+The `<img>` tag has an attribute called `src` and this is where we tell it the url to the image we want to use in our story. Here is an example `<img>` tag:
+
+```html
+<img src="http://f.cl.ly/items/2f473l1d233S0S1k3J3d/dogs-playing.jpg">
+```
+
+What if the image is too big for your page? You can tell it to be a certain size:
+
+```html
+<img src="http://f.cl.ly/items/2f473l1d233S0S1k3J3d/dogs-playing.jpg" width="350px">
+```
+
+Add some images to your web page that have to do with your super power! Make sure any Google Images Searches have SafeSearch on.
+
+###Link Tags
+
+One of the things that makes web pages so amazing for telling stories is you can **link** things together with other web pages on the internet and it is really easy to do!
+
+The `<a>` tag has an attribute called `href` and we will set that attribute equal to the url of the web page we want to link to. Here is an example where I link the word Poodles to the web page about Poodles on Wikipedia:
+
+```
+<a href="http://en.wikipedia.org/wiki/Poodle">Poodles</a>
+```
+
+Add a link to your web page. Is there another super hero that has that power? Link to a website about them!
+
+###Finish Your Web Page
+
+There are more HTML tags to try, but we now have the skills to make an exciting web page. Complete the content about your super power and we will learn some CSS to make the page look better!
 
 
 
-<strong>
-<em> <u> 
 
