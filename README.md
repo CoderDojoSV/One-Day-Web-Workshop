@@ -2,8 +2,9 @@
 
 Today we will be learning to make websites using HTML and CSS. No previous experience is necessary, just have fun and be creative! We will be making web pages to help us tell a story that we can show our friends and family.
 
+
 **Setup**
-Please create an account at [http://jsbin.com/]http://jsbin.com/. You will need an account in order to save your web page you create today. If you are under 13, grab your parent to help.
+Please create an account at [http://jsbin.com/](http://jsbin.com/). You will need an account in order to save your web page you create today. If you are under 13, grab your parent to help.
 
 
 **What is HTML?**
