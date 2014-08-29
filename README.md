@@ -263,6 +263,7 @@ If you are interested in learning how the computer knows that #FF6BC4 is that sp
 
 You have learned the basics for creating web pages! Use your new skills to complete your page. Here is my finished example:
 
+![finished example](https://raw.githubusercontent.com/CoderDojoSV/Medallia-Web-Workshop/master/finished%20example.png)
 
-
+[Here is the link to my finished code](http://jsbin.com/yedet/2/edit?html,css,output) 
 
