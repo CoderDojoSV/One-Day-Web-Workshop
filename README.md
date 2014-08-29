@@ -236,13 +236,14 @@ Declarations are the style modifications we apply in each CSS rule. There are tw
 
 ```property: value;```
 
-There are an amazing number of options for declarations in CSS - you can do just about anything you want! But let's start with just a few. Can you add the following to your page?
+There are an amazing number of options for declarations in CSS - you can do just about anything you want! But let's start with just a few. Can you add the following declarations to your page?
 
+```
 font-family: Arial;
 text-align: center;
 color: yellow;
 background-color: black;
-
+```
 
 ###Making Your Own Colors
 
@@ -257,4 +258,11 @@ In order to find the hex value for a specific color, go to [Color Picker](http:/
 ![color picker](https://raw.githubusercontent.com/CoderDojoSV/Medallia-Web-Workshop/master/color%20picker2.png)
 
 If you are interested in learning how the computer knows that #FF6BC4 is that specific shade of pink, ask a mentor! It is really cool!
+
+#Putting It All Together!
+
+You have learned the basics for creating web pages! Use your new skills to complete your page. Here is my finished example:
+
+
+
 
