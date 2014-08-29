@@ -236,6 +236,13 @@ Declarations are the style modifications we apply in each CSS rule. There are tw
 
 ```property: value;```
 
+There are an amazing number of options for declarations in CSS - you can do just about anything you want! But let's start with just a few. Can you add the following to your page?
+
+font-family: Arial;
+text-align: center;
+color: yellow;
+background-color: black;
+
 
 ###Making Your Own Colors
 
