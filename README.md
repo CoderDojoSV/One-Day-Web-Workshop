@@ -50,7 +50,7 @@ Will produce a web page that looks like this:
 Check out the [live demo](http://jsbin.com/cejip/1/edit?html,css,output) to experiment yourself.
 
 
-##Your Story - What's Your Super Power?
+#Your Story - What's Your Super Power?
 Our projects today will be about your imaginary super powers. It will be a whole web page around "if I had a super power, it would be ..."
 
 What would you use your super power for? Does any one have this power? Are there any downsides?
@@ -78,7 +78,7 @@ Start a new project at [http://jsbin.com/](http://jsbin.com/). The HTML section 
 You should delete all of this HTML! We will start with it completely blank.
 
 
-##HTML Tags
+#HTML
 
 Let's learn a few tags to use on your web page! Most of the time you will have an opening tag and matching closing tag with some text in between.
 
@@ -168,5 +168,5 @@ Add a link to your web page. Is there another super hero that has that power? Li
 There are more HTML tags to try, but we now have the skills to make an exciting web page. Complete the content about your super power and we will learn some CSS to make the page look better!
 
 
-
+#CSS
 
