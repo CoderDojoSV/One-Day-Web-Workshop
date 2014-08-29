@@ -137,7 +137,7 @@ Try adding these tags to your page to see what they do: `<strong>`, `<em>`, and 
 ###Image Tags
 This story would be a lot more interesting with pictures! Adding a picture to our story is simple, we just use the `<img>` tag and tell it where our image is.
 
-The `<img>` tag has an attribute called `src` and this is where we tell it the url to the image we want to use in our story. Here is an example `<img>` tag:
+The `<img>` tag has an attribute called `src` and this is where we tell it the url to the image we want to use in our story. Here is an example `<img>` tag (notice that you don't need a closing tag this time):
 
 ```html
 <img src="http://f.cl.ly/items/2f473l1d233S0S1k3J3d/dogs-playing.jpg">
@@ -170,3 +170,61 @@ There are more HTML tags to try, but we now have the skills to make an exciting 
 
 #CSS
 
+Next we are going to learn about [Cascading Style Sheets](http://en.wikipedia.org/wiki/CSS),
+more commonly known as CSS. We are going to use CSS to improve the _look
+and feel_ of our stories.
+
+### What is CSS?
+
+CSS is a language that can be used to describe how HTML is supposed to look.
+The important distinction here is that HTML structures the content,
+while CSS controls how it looks.
+
+Let's look at some CSS:
+
+```css
+body {
+  font-family: Arial;
+  background-color: #FF6BC4;
+}
+```
+
+If you paste the above code into the CSS panel in JS Bin, what changes about your website? You might have to click the CSS button on the top of the JS Bin page to show the CSS panel. 
+
+
+
+### How CSS Works
+
+We can get an idea of what's happening by looking at each line of the CSS.
+
+* For any ```<body>``` tags
+    1. Use ```Arial``` as the font
+    2. Set the background color to ```#FF6BC4``` (A ***hex color***. More on this later)
+
+
+CSS follows a basic pattern. First, we select the HTML elements we want to
+change the look of. Then, we say what aspects of their look we want to change.
+Take this snippet for example:
+
+```css
+body {
+  font-family: Arial;
+  background-color: #FF6BC4;
+}
+```
+
+We are selecting all ```<body>``` tags (We only have 1),
+then saying we want to modify the font and background color.
+
+The part that selects the tags is called the **selector**, and each modification
+is called a **declaration**. A combination of a selector and any number
+of declarations is called a **rule**. A CSS file can contain as many rules as
+we want.
+
+Let's break down the concepts of **selectors** and **declarations**.
+
+## Selectors
+
+So far we have seen selectors that find HTML elements by tag name.
+CSS allows us to be much more flexible about targeting HTML elements to modify.
+We can select using **classes**, **IDs**, and **parent-child relationships**.
