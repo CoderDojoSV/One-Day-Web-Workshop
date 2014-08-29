@@ -197,7 +197,7 @@ If you paste the above code into the CSS panel in JS Bin, what changes about you
 
 We can get an idea of what's happening by looking at each line of the CSS.
 
-* For any ```<body>``` tags
+* For all ```<body>``` tags
     1. Use ```Arial``` as the font
     2. Set the background color to ```#FF6BC4``` (A ***hex color***. More on this later)
 
@@ -214,7 +214,7 @@ body {
 ```
 
 We are selecting all ```<body>``` tags (We only have 1),
-then saying we want to modify the font and background color.
+then saying we want to modify the font, background color, and foreground color.
 
 The part that selects the tags is called the **selector**, and each modification
 is called a **declaration**. A combination of a selector and any number
@@ -223,8 +223,31 @@ we want.
 
 Let's break down the concepts of **selectors** and **declarations**.
 
-## Selectors
+### Selectors
 
-So far we have seen selectors that find HTML elements by tag name.
-CSS allows us to be much more flexible about targeting HTML elements to modify.
-We can select using **classes**, **IDs**, and **parent-child relationships**.
+So far we have seen an example selector for all body tags. How can you make a selector for all paragraph tags? Add it to your project, making the paragraphs have a different background color!
+
+CSS also allows us to be much more flexible about targeting HTML elements to modify. If you only want to select one paragraph on your page, but not all of them, you can do that using **classes** and  **IDs**. Ask a mentor if you want to see how!
+
+
+### Declarations
+
+Declarations are the style modifications we apply in each CSS rule. There are two parts to each declaration: the **property** and the **value**. The pattern is:
+
+```property: value;```
+
+
+###Making Your Own Colors
+
+There is a simple way to do colors in CSS, simply by typing in the color:
+
+```background-color: green;```
+
+But there are many more colors that we don't have names for. As we saw in the earlier example, it used a color #FF6BC4. That is a hex color - it combines red, blue, and green to make a very specific color. It will give you many many more options for colors to use on your web page.
+
+In order to find the hex value for a specific color, go to [Color Picker](http://colorpicker.com/). Select the color you want and copy the hex value from the top of the screen.
+
+
+
+If you are interested in learning how the computer knows that #FF6BC4 is that specific shade of pink, ask a mentor! It is really cool!
+
