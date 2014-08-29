@@ -267,3 +267,8 @@ You have learned the basics for creating web pages! Use your new skills to compl
 
 [Here is the link to my finished code](http://jsbin.com/yedet/2/edit?html,css,output) 
 
+###Make More Web Pages
+
+Great job on your web page today. Don't forget that you can refer back here when you want to create more web pages. You can create them for school projects, as birthday cards for family members, or just for fun!
+
+If you had fun today and would like to keep learning more HTML and CSS, [Codecademy](http://www.codecademy.com/en/tracks/web) has an excellent tutorial. 
