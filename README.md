@@ -1,4 +1,4 @@
-#Medallia Web Workshop
+#One Day Web Workshop
 
 Today we will be learning to make websites using HTML and CSS. No previous experience is necessary, just have fun and be creative! We will be making web pages to help us tell a story that we can show our friends and family.
 
@@ -271,4 +271,4 @@ You have learned the basics for creating web pages! Use your new skills to compl
 
 Great job on your web page today. Don't forget that you can refer back here when you want to create more web pages. You can create them for school projects, as birthday cards for family members, or just for fun!
 
-If you had fun today and would like to keep learning more HTML and CSS, [Codecademy](http://www.codecademy.com/en/tracks/web) has an excellent tutorial. 
+If you had fun today and would like to keep learning more HTML and CSS, [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css) has an excellent tutorial. 
